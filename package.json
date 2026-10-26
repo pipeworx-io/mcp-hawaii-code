@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hawaii-code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hawaii Revised Statutes — state statutes by citation, by topic, and (where the Legislature itself publishes it) by historical year. Fleet #2751.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f97247706d1d18aa5ad50ae2ebe54118864c42787c63ed488d4e43c8b5a18dba",
-    "sourceCommit": "3723e46c6d115bd4a1fd2175e6bf758555e7cb50"
+    "sourceHash": "v1-508afa1009a4a045cbab7ab5d68d20089778a47f4c45a0cfe7a2f1bb19193ce7",
+    "sourceCommit": "24e32b525f9c0b2fd7d94b519b08abb108cc11cd"
   }
 }
