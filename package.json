@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hawaii-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Hawaii Revised Statutes — state statutes by citation, by topic, and (where the Legislature itself publishes it) by historical year. Fleet #2751.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hawaii-code",
     "gatewaySlug": "hawaii-code",
-    "sourceHash": "v1-c1c5dfacd0da8761b3d5723886f63890e3c193616b7298a51281672ef3116f48",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-6fd0d35cb3176f6790eff48c55c26335f988322f52cebc6647715fe009a08ea7",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
